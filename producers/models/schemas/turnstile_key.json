@@ -1,0 +1,11 @@
+{
+  "namespace": "com.cta.schemas",
+  "name": "turnstile.key",
+  "type": "record",
+  "fields": [
+    {
+      "name": "timestamp",
+      "type": "long"
+    }
+  ]
+}

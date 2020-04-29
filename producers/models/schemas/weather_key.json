@@ -1,0 +1,8 @@
+{
+  "namespace": "com.cta.schemas",
+  "name": "weather.key",
+  "type": "record",
+  "fields": [
+    {"name": "timestamp", "type": "long"}
+  ]
+}
